@@ -2,12 +2,14 @@
 
 ## Student notebooks
 
-|   | Topic | Link |
-| - | --- | ---- |
-| Tutorial 1 | Introduction to Python |  |
-| Tutorial 2 | Neuronal Models | |
-| Tutorial 3 | Deep Learning | |
-| Tutorial 4 | Reinforcement Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WKSLTxkPGIq8mHzLb_Suw8bEmHUtVgte?usp=sharing)|
-| Tutorial 5 | Unsupervised Learning | |
-| Tutorial 6 | Working with Brain Data | |
+|   | Topic | Link | Solutions |
+| - | --- | ---- | ---- |
+| Tutorial 1 | Introduction to Python |  | ![Not available yet](https://img.shields.io/badge/available%20on-mm%2Fdd-red) |
+| Tutorial 2 | Neuronal Models | | ![Not available yet](https://img.shields.io/badge/available%20on-mm%2Fdd-red) |
+| Tutorial 3 | Deep Learning | | ![Not available yet](https://img.shields.io/badge/available%20on-mm%2Fdd-red) |
+| Tutorial 4 | Reinforcement Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WKSLTxkPGIq8mHzLb_Suw8bEmHUtVgte?usp=sharing)| ![Not available yet](https://img.shields.io/badge/available%20on-mm%2Fdd-red) |
+| Tutorial 5 | Unsupervised Learning | | ![Not available yet](https://img.shields.io/badge/available%20on-mm%2Fdd-red) |
+| Tutorial 6 | Working with Brain Data | | ![Not available yet](https://img.shields.io/badge/available%20on-mm%2Fdd-red) |
+
+
 
