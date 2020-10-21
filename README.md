@@ -13,7 +13,7 @@
 
 <p>&nbsp;</p>
 
-***Contact info:***
+***Contact info:*** #do we want this?
 
 Lynn S. -
 
