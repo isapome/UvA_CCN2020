@@ -10,8 +10,8 @@
 | Tutorial 3 | Deep Learning | | [![Not available yet](https://img.shields.io/badge/available%20on-03%2F11-red)]() | Jessica |
 | Tutorial 4 | Reinforcement Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WKSLTxkPGIq8mHzLb_Suw8bEmHUtVgte?usp=sharing)| [![Not available yet](https://img.shields.io/badge/available%20on-05%2F11-red)]() | Isabella |
 | *Assignment 2* | | [![Not available yet](https://img.shields.io/badge/available%20on-06%2F11-red)]() | | Isabella |
-| Tutorial 5 | Unsupervised Learning | | [![Not available yet](https://img.shields.io/badge/available%20on-10%2F10-red)]() | Isabella |
-| Tutorial 6 | Working with Brain Data | | [![Not available yet](https://img.shields.io/badge/available%20on-12%2F10-red)]() | Jessica |
+| Tutorial 5 | Unsupervised Learning | | [![Not available yet](https://img.shields.io/badge/available%20on-10%2F11-red)]() | Isabella |
+| Tutorial 6 | Working with Brain Data | | [![Not available yet](https://img.shields.io/badge/available%20on-12%2F11-red)]() | Jessica |
 | *Assignment 3* | | [![Not available yet](https://img.shields.io/badge/available%20on-13%2F11-red)]() | | Jessica |
 
 <p>&nbsp;</p>
