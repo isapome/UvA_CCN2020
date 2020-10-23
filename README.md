@@ -2,7 +2,7 @@
 
 ## Student notebooks
 
-|   | Topic | Link | Solutions<sup>(1)</sup> | Reference | Time slots | 
+|   | Topic | Link | Solutions<sup>(1)</sup> | TA | Time slots | 
 | - | --- | ---- | ---- | ---- | ---- |
 | Tutorial 1 | Introduction to Python | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wit8KPJ6V1PdDaj5EtbAYjhMNwHUZlfk?usp=sharing) | [![Not available yet](https://img.shields.io/badge/available%20on-27%2F10-red)]() | Lynn | <ul><li> 26/10 at 14:00-15:00 </li><li> 26/10 at 17:00-17:30 </li><li> 27/10 at 09:00-9:30 </li><li> 27/10 at 14:00-14:30 </li></ul>   |
 | Tutorial 2 | Neural Models |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dnk3V1DWxoyohKYNem81uI-6i7j9lxQj?usp=sharing) | [![Not available yet](https://img.shields.io/badge/available%20on-29%2F10-red)]() | Lynn | <ul><li> 28/10 at 16:00-17:00 </li><li> 29/10 at 09:00-09:30 </li><li> 29/10 at 13:00-13:30 </li><li> 29/10 at 17:00-17:30 </li></ul> |
