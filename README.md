@@ -17,9 +17,9 @@
 
 <p>&nbsp;</p>
 
-<sup>1</sup> solutions will be available from around 4pm
+<sup>1</sup> solutions will be available from around 4pm.
 
-<sup>2</sup> assignments will be available from 9am and the answers will have to be submitted by 7pm on the same day
+<sup>2</sup> assignments will be available from 9am and the answers will have to be submitted by 7pm on the same day; grades will be communicated on the following Tuesday.
 
 <p>&nbsp;</p>
 
