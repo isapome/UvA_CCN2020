@@ -27,7 +27,7 @@
 
 Lynn S. - `l.k.a.sorensen@uva.nl`
 
-Jessica L. -
+Jessica L. - `j.loke@uva.nl`
 
 Isabella P. - `isabella.pozzi@cwi.nl`
 
