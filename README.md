@@ -10,7 +10,7 @@
 | Tutorial 3 | Deep Learning | | [![Not available yet](https://img.shields.io/badge/available%20on-03%2F11-red)]() | Jessica | |
 | Tutorial 4 | Reinforcement Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17QzpvKPfykku5sLypMFIUcj0r77nWmGe?usp=sharing) | [![Not available yet](https://img.shields.io/badge/available%20on-05%2F11-red)]() | Isabella | <ul><li> 04/11 at 14:00-15:00 </li><li> 04/11 at 17:00-17:30 </li><li> 05/11 at 12:00-13:00 </li></ul> |
 | *Assignment 2*  | | [![Not available yet](https://img.shields.io/badge/available%20on-06%2F11-red)]() | | Isabella | 06/11 at 09:00-09:15 |
-| Tutorial 5 | Unsupervised Learning | | [![Not available yet](https://img.shields.io/badge/available%20on-10%2F11-red)]() | Isabella | <ul><li> 09/11 at 12:00-13:00 </li><li> 09/11 at 17:00-17:30 </li><li> 10/11 at 12:00-12:30 </li><li> 10/11 at 16:00-16:30 </li></ul> |
+| Tutorial 5 | Unsupervised Learning |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-xnnibzn-HJFEdbxFHs3E5ZK69HSMmms?usp=sharing) | [![Not available yet](https://img.shields.io/badge/available%20on-10%2F11-red)]() | Isabella | <ul><li> 09/11 at 12:00-13:00 </li><li> 09/11 at 17:00-17:30 </li><li> 10/11 at 12:00-12:30 </li><li> 10/11 at 16:00-16:30 </li></ul> |
 | Tutorial 6 | Working with Brain Data | | [![Not available yet](https://img.shields.io/badge/available%20on-12%2F11-red)]() | Jessica |
 | *Assignment 3* | | [![Not available yet](https://img.shields.io/badge/available%20on-13%2F11-red)]() | | Jessica | 13/11 at 09:00-09:15 |
 
