@@ -12,7 +12,7 @@
 | *Assignment 2*  | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-nQ9Jc0-c8p2rAOPoOTGbCQTyI8YuBqk?usp=sharing) | | Isabella | 06/11 at 09:00-09:15 |
 | Tutorial 5 | Unsupervised Learning |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-xnnibzn-HJFEdbxFHs3E5ZK69HSMmms?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14KqvgcuSHdZaedmjHYoPgntPthmybYkY?usp=sharing) | Isabella | <ul><li> 09/11 at 13:00-13:30 </li><li> 09/11 at 17:00-17:30 </li><li> 10/11 at 12:00-12:30 </li><li> 10/11 at 16:00-16:30 </li></ul> |
 | Tutorial 6 | Working with Brain Data | [![Download files here](https://img.shields.io/badge/-Download%20folder-red)](https://drive.google.com/drive/folders/1ZNfZM6vfDYl9hf6girSrNSJ9VUukEIWh?usp=sharing) | [![Download files here](https://img.shields.io/badge/-Download%20folder-red)](https://drive.google.com/drive/folders/1ZNfZM6vfDYl9hf6girSrNSJ9VUukEIWh?usp=sharing)| Jessica | <li> 11/11 at 15:00-17:00 </li> <li> 11/12 at 15:00-15:30 </li>
-| *Assignment 3* | | [![Not available yet](https://img.shields.io/badge/available%20on-13%2F11-red)]() | | Jessica | 13/11 at 09:00-09:15 |
+| *Assignment 3* | | [![Download files here](https://img.shields.io/badge/-Download%20folder-red)](https://drive.google.com/drive/folders/1bW8TH1WBuZmljFVoxrsiBnbgBf7RXdoZ?usp=sharing) | | Jessica | 13/11 at 09:00-09:15 |
 
 
 <p>&nbsp;</p>
